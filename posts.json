@@ -1,0 +1,57 @@
+[
+    {
+        "title": "My First Post",
+        "content": "My first post!\r\n\r\nBooyah!",
+        "user_id": 1
+    },
+    {
+        "title": "Second Post",
+        "content": "different users post",
+        "user_id": 2
+    },
+    {
+        "title": "Hello",
+        "content": "Howdy there friend",
+        "user_id": 1
+    },
+    {
+        "title": "tabs or spaces?",
+        "content": "which side will you choose?",
+        "user_id": 1
+    },
+    {
+        "title": "Goodbye",
+        "content": "See ya tomorrow",
+        "user_id": 1
+    },
+    {
+        "title": "Do you like django?",
+        "content": "Are you having fun with the coding and computer smashing?",
+        "user_id": 2
+    },
+    {
+        "title": "Where are you?",
+        "content": "Donde estas?",
+        "user_id": 2
+    },
+    {
+        "title": "Cats or Dogs?",
+        "content": "Are you a pet lover?",
+        "user_id": 1
+    },
+    {
+        "title": "Python vs Python",
+        "content": "Pet vs Computer",
+        "user_id": 1
+    },
+    {
+        "title": "Drink of Choice?",
+        "content": "I think I live Whiskey...",
+        "user_id": 1
+    },
+    {
+        "title": "Favorite Sport",
+        "content": "I love to play \r\n\r\n soccer!",
+        "user_id": 1
+    }
+]
